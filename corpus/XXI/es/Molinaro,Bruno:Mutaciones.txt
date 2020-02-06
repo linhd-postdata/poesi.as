@@ -1,0 +1,10 @@
+Larva
+      cielos
+ninfa
+      soles
+niño
+      nubes
+ninfa
+      lluvias
+larva
+      game over

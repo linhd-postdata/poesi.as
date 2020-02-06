@@ -1,0 +1,4 @@
+Hay tres clases de personas:
+las que sudan,
+las que tosen
+y las que son felices

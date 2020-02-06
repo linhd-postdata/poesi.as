@@ -1,0 +1,8 @@
+Hago un pozo
+para buscar una palabra enterrada.
+Si la encuentro,
+la palabra cerrará el pozo.
+Si no la encuentro,
+el pozo quedará abierto para siempre en mi voz.
+La búsqueda de lo enterrado
+supone adoptar los vacíos que fracasan.
