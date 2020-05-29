@@ -7,8 +7,10 @@ Some stats:
 
 Two jsons are provided:
 
-* **poesias_corpora.json**: This is the json used to generate the txt files.
-* **poesias_corpora_old_spanish.json**: This json is still a work in progress. It has old Spanish poems made mostly by Alfonso X and they are not included in the corpora folder.
+* [**`poesias_corpora.json`**](./poesias_corpora.json): This is the json used to generate the txt files.
+* [**`poesias_corpora_old_spanish.json`**](./poesias_corpora_old_spanish.json): This json is still a work in progress. It has old Spanish poems made mostly by Alfonso X and they are not included in the corpora folder.
+
+An additional CSV file, [`authors.csv`](./authors.csv), provides reconciled information for authors of the 20th Century and below. Identifiers (VIAF, BnF, BNE, LoC, ISNI), dates of birth and death, and gender, are also added as they appear in Wikidata.
 
 Example of the structure of the json. the key is the original htm file on the poesi.as website:
 
