@@ -31,3 +31,10 @@ Example of the structure of the json. the key is the original htm file on the po
 This repo is a dump of the website www.poesi.as, we do not own the rights of any of the works pulished here.
 
 For any violations or infringement of copyright, take proper action within the scope of the original website.
+
+## Public Domain
+
+The script [`extract.py`](./extract.py) generates a public domain corpus in JSON extracted from the corpus in poesi.as. The number of years since the death of an author needed for a work to be considered in the public domain can be specified using `-y YEARS` (`--years YEARS`). Defaults to 80 as per Spanish copyright laws.
+```
+$ python extract.py > public_domain.json
+``
