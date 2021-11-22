@@ -1,0 +1,15 @@
+{
+    "upload_type": "dataset", 
+    "creators": [
+        {   
+            "orcid": "0000-0002-9143-5573",
+            "name": "Javier de la Rosa"
+        },
+        {   
+            "orcid": "0000-0001-5897-1246",
+            "name": "Álvaro Pérez Pozo"
+        }
+    ],    
+    "title": "Poesi.as dataset",
+    "grants": [{"id":"679528"}]
+}
